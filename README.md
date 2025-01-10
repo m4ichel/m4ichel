@@ -1,4 +1,5 @@
-<img src="https://github.com/m4ichel/m4ichel/blob/main/omori-light-bulb.gif" width="20%" align="right" />
+<img src="https://github.com/m4ichel/m4ichel/blob/main/omori-light-bulb.gif" width="10%" align="right" />
+
 
 
 ## Hi there 👋
