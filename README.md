@@ -9,7 +9,14 @@
 * Adoro aprender (estou aprendendo a cozinhar)
 * Profissional em minutos de silêncio
 
-
+<p>
+  quem sou:
+  <list>
+    futuro
+    aaa
+    f
+  </list>
+</p>
 
 
 <!--## Hi there 👋
