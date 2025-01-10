@@ -12,8 +12,7 @@
 <p>
   quem sou:
   <ul>
-    futuro
-    a, a
+    futuro; a; eee
   </ul>
 </p>
 
