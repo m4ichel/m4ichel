@@ -41,7 +41,7 @@
 <!-- peculiaridade -->
 <div>
       <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra.png" width="10%" align="left" />
-      <p width="500">
+      <p width="500" >
             Uma peculiaridade minha: já me questionei sobre minha sexualidade algumas vezes.<br>Isso porque eu sou o único homem hétero no meu grupo de amigos mas mesmo assim<br>me dou muito bem com eles :)
       </p>
 </div>
@@ -51,9 +51,18 @@
 <!-- só fiz isso uma imagem pra ficar um espaçamento bonito, porque um <br> era pouco e dois <br> era muito -->
 
 
-<p>
-      Agradecimento especial ao meu buddy do Inteli: 
-</p>
+
+<div align="left" >
+      <p>Me contate:</p>
+      <img src="https://github.com/m4ichel/m4ichel/blob/main/Emaillogo.png" width="2.5%" align="left" />
+      <p><a href="lucas.michel@sou.inteli.edu.br">lucas.michel@sou.inteli.edu.br</a></p>
+      <img src="https://github.com/m4ichel/m4ichel/blob/main/Instagramlogo.png" width="2%" align="left" />
+      <p><a href="instagram.com/m4ichel_">@m4ichel_</a></p>
+</div>
+
+<div align="right" >
+      <p>Um agradecimento especial ao meu buddy do Inteli:</p>
+</div>
 
 
 
