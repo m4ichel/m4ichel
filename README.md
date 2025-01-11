@@ -13,7 +13,7 @@
 </div>
 
 
-<img src="https://github.com/m4ichel/m4ichel/blob/main/annoyingdog.gif" position:"absolute" />
+<img src="https://github.com/m4ichel/m4ichel/blob/main/annoyingdog.gif" width="15%" align="right" position="absolute" />
 
 
  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
