@@ -9,13 +9,11 @@
 * Adoro aprender (estou aprendendo a cozinhar)
 * Profissional em minutos de silêncio
 
-<p>
-  quem sou:
-  <ol>
-    futuro; a; eee
-  </ol>
-</p>
+ <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=m4ichel&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+ </a>
 
+    
 
 <!--## Hi there 👋
 
