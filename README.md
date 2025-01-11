@@ -4,10 +4,10 @@
 <p align="right">
       <h3>Quem sou:</h3>
       <p>
-            - Futuro estudante de ciência da computação na Inteli 
-            - Medalhista de olimpíadas como OBM, OBMEP e Canguru
-            - Amante de vídeo-games
-            - Adoro aprender (estou aprendendo a cozinhar)
+            - Futuro estudante de ciência da computação na Inteli <br>
+            - Medalhista de olimpíadas como OBM, OBMEP e Canguru <br>
+            - Amante de vídeo-games <br>
+            - Adoro aprender (estou aprendendo a cozinhar) <br>
             - Profissional em minutos de silêncio
       </p>
 </p>
