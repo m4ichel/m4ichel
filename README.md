@@ -1,7 +1,7 @@
 <img src="https://github.com/m4ichel/m4ichel/blob/main/lightbulb-omori.gif" width="15%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=500&size=50&duration=4000&pause=300&color=ffffff&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=210&lines=Bem+vindo+ao+meu+github;Sinta&#45se+a+vontade+para+explorar" width="85%" />
 
-<div>
+<div width="800">
       <h3>Quem sou:</h3>
       <ul>
             <li>Futuro estudante de ciência da computação na Inteli </li>
