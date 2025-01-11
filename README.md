@@ -31,7 +31,7 @@
 <div>
       <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra-.png" width="14%" align="left" />
       <p>
-            paragrafo
+            Uma peculiaridade minha: já me questionei sobre minha sexualidade algumas vezes. Isso porque eu sou o único homem hétero no meu grupo de amigos mas mesmo assim me dou muito bem com eles :)
       </p>
 </div>
 
