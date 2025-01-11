@@ -12,14 +12,14 @@
       </ul>
 </div>
 
-
+<div align="center">
 <img src="https://github.com/m4ichel/m4ichel/blob/main/annoyingdog.gif" width="15%" align="right" position="absolute" />
 
 
  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=m4ichel&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
  </a>
-
+</div>
     
 
 <!--## Hi there 👋
