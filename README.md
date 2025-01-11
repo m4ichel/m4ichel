@@ -8,7 +8,7 @@
   * Amante de vídeo-games <br>
   * Adoro aprender (estou aprendendo a cozinhar) <br>
   * Profissional em minutos de silêncio <br>
-
+</p>
 
 ### Quem sou:
 * Futuro estudante de ciência da computação na Inteli 
