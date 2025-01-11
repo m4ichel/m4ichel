@@ -23,15 +23,15 @@
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
             <img width=390 src="https://github-readme-stats.vercel.app/api?username=m4ichel&show_icons=true&theme=react&border_color=61dafb&hide_border=true&font=Monospace" />
       </a>
-      <img src="https://github.com/m4ichel/m4ichel/blob/main/annoyingdog.gif" width="15%" position="absolute" />
+      <img src="https://github.com/m4ichel/m4ichel/blob/main/annoyingdog.gif" width="150" position="absolute" />
 </div>
     
 <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra-.png" width="4%" align="center" />
 
 <div>
-      <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra-.png" width="14%" align="left" />
-      <p>
-            Uma peculiaridade minha: já me questionei sobre minha sexualidade algumas vezes. Isso porque eu sou o único homem hétero no meu grupo de amigos mas mesmo assim me dou muito bem com eles :)
+      <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra-.png" width="10%" align="left" />
+      <p width="500">
+            Uma peculiaridade minha: já me questionei sobre minha sexualidade algumas vezes.<br>Isso porque eu sou o único homem hétero no meu grupo de amigos mas mesmo assim<br>me dou muito bem com eles :)
       </p>
 </div>
 
