@@ -14,12 +14,21 @@
                   <li>Futuro estudante de ciência da computação na Inteli </li>
                   <li>Medalhista de olimpíadas como OBM, OBMEP e Canguru </li>
                   <li>Amante de vídeo-games </li>
-                  <li>Adoro aprender (estou aprendendo a cozinhar) </li>
+                  <li>Adoro aprender (estou amando aprender a cozinhar) </li>
                   <li>Profissional em minutos de silêncio </li>
             </ul>
       </p>
 </div>
 
+
+<img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra-.png" width="4%" align="center" />
+<!-- só fiz isso uma imagem pra ficar um espaçamento bonito, porque um <br> era pouco e dois <br> era muito -->
+
+
+<div>
+      <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra.png" width="10%" align="left" />
+      <p>Me formei no Ensino Médio do Colégio Pentágono, escola na qual estudei quase minha vida<br>toda, e agora, com 18 anos, estou a caminho da faculdade. Espero conseguir me melhorar<br>como pessoa e profissional nesses próximos anos, porque, mesmo que eu tenha melhorado nos<br>últimos, ainda tem um longo caminho pela frente. Uma frase que me inspira de vez em quando: "Change is often unnoticeable until it's undeniable"</p>
+</div>
 
 <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra-.png" width="4%" align="center" />
 <!-- só fiz isso uma imagem pra ficar um espaçamento bonito, porque um <br> era pouco e dois <br> era muito -->
