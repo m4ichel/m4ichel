@@ -54,10 +54,9 @@
 
 <div align="left" >
       <p>Me contate:</p>
-      <img src="https://github.com/m4ichel/m4ichel/blob/main/Emaillogo.png" width="2.5%" align="left" />
-      <p><a href="lucas.michel@sou.inteli.edu.br">lucas.michel@sou.inteli.edu.br</a></p>
-      <img src="https://github.com/m4ichel/m4ichel/blob/main/Instagramlogo.png" width="2%" align="left" />
-      <p><a href="instagram.com/m4ichel_">@m4ichel_</a></p>
+      <a href="https://www.instagram.com/m4ichel_&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href = "lucas.michel@sou.inteli.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
 
 <div align="right" >
