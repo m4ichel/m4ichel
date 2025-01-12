@@ -5,7 +5,7 @@
 
 <!-- lista -->
 <div>
-      <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra-.png" width="10%" align="left" />
+      <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra-.png" width="8%" align="left" />
       <img src="https://github.com/m4ichel/m4ichel/blob/main/bunnyspace.gif" width="18%" align="left" />
       <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarraI2.png" height=180 align="left" />
       <p>
@@ -26,7 +26,8 @@
 
 
 <div>
-      <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra.png" width="10%" align="left" />
+      <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarraI.png" width="4%" align="left" />
+      <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarraI.png" width="4%" align="left" />
       <p>Me formei no Ensino Médio do Colégio Pentágono, escola na qual estudei quase minha vida<br>toda, e agora, com 18 anos, estou a caminho da faculdade. Espero conseguir me melhorar<br>como pessoa e profissional nesses próximos anos, porque, mesmo que eu tenha melhorado nos<br>últimos, ainda tem um longo caminho pela frente. Uma frase que me inspira de vez em quando: "Change is often unnoticeable until it's undeniable"</p>
 </div>
 
@@ -40,6 +41,7 @@
             <img width=390 src="https://github-readme-stats.vercel.app/api?username=m4ichel&show_icons=true&theme=react&border_color=61dafb&hide_border=true&font=Monospace" />
       </a>
       <img src="https://github.com/m4ichel/m4ichel/blob/main/annoyingdog.gif" width="150" position="absolute" />
+      <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra-.png" width="10%" />
 </div>
 
     
@@ -49,7 +51,7 @@
 
 <!-- peculiaridade -->
 <div>
-      <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra.png" width="10%" align="left" />
+      <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra.png" width="8%" align="left" />
       <p width="500" >
             Uma peculiaridade minha: já me questionei sobre minha sexualidade algumas vezes.<br>Isso porque eu sou o único homem hétero no meu grupo de amigos mas mesmo assim<br>me dou muito bem com eles :)
       </p>
@@ -68,7 +70,7 @@
 </div>
 
 <div align="right" >
-      <p>Um agradecimento especial ao meu buddy do Inteli:</p>
+      <p>Um agradecimento especial ao meu buddy do Inteli: Guilherme</p>
 </div>
 
 
