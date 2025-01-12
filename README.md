@@ -9,7 +9,7 @@
 <!-- lista -->
 <div>
       <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra-.png" width="8%" align="left" />
-      <img src="https://github.com/m4ichel/m4ichel/blob/main/bunnyspace.gif" width="18%" align="left" />
+      <img src="https://github.com/m4ichel/m4ichel/blob/main/spacebunny.gif" width="18%" align="left" />
       <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarraI2.png" height=180 align="left" />
       <p>
             <h3>Quem sou:</h3>
