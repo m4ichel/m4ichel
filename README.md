@@ -76,7 +76,7 @@
 
 <!-- obrigado -->
 <div align="right" >
-      <p>Um agradecimento especial ao meu buddy do Inteli: Guilherme</p>
+      <p>Um agradecimento especial ao meu buddy do Inteli: https://github.com/gui23g</p>
 </div>
 
 
