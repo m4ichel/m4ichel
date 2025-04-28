@@ -57,7 +57,7 @@
 <div>
       <img src="https://github.com/m4ichel/m4ichel/blob/main/gambiarra.png" width="8%" align="left" />
       <p width="500" >
-            Uma peculiaridade minha: já me questionei sobre minha sexualidade algumas vezes.<br>Isso porque eu sou o único homem hétero no meu grupo de amigos mas mesmo assim me dou<br>muito bem com eles :)
+            Atualmente, estou aprendendo e utilizando diversas linguagens de programação, como HTML, CSS e JavaScript.
       </p>
 </div>
 
