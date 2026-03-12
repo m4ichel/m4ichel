@@ -14,11 +14,10 @@
       <p>
             <h3>Quem sou:</h3>
             <ul>
-                  <li>Futuro estudante de ciência da computação na Inteli </li>
+                  <li>Estudante de ciência da computação na Inteli </li>
                   <li>Medalhista de olimpíadas como OBM, OBMEP e Canguru </li>
                   <li>Amante de vídeo-games </li>
                   <li>Adoro aprender (estou amando aprender a cozinhar) </li>
-                  <li>Profissional em minutos de silêncio </li>
             </ul>
       </p>
 </div>
