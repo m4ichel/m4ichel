@@ -7,7 +7,6 @@
   <a href="https://m4ichel.github.io"><img src="https://img.shields.io/badge/m4ichel.github.io-ff2bd6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/lucas-m4ichel-pereira"><img src="https://img.shields.io/badge/LinkedIn-4fd8ff?style=for-the-badge&logo=linkedin&logoColor=06050b" alt="LinkedIn"></a>
   <a href="mailto:lucas.m4ichel.pereira@gmail.com"><img src="https://img.shields.io/badge/E--mail-7dffc8?style=for-the-badge&logo=gmail&logoColor=06050b" alt="E-mail"></a>
-  <a href="https://instagram.com/m4ichel_"><img src="https://img.shields.io/badge/Instagram-ffd23f?style=for-the-badge&logo=instagram&logoColor=06050b" alt="Instagram"></a>
 </p>
 
 ### `CH.02` whoami
